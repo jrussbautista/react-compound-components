@@ -9,6 +9,12 @@ npm install
 npm start
 ```
 
+### Run Tests
+
+```
+npm run test
+```
+
 ## Components
 
 - [x] Tabs
